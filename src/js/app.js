@@ -11,3 +11,5 @@ import "./carousel.js";
 import "./accordion.js";
 
 import "./slider.js";
+
+import "./shoppingCart.js";
