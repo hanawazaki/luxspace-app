@@ -13,3 +13,5 @@ import "./accordion.js";
 import "./slider.js";
 
 import "./shoppingCart.js";
+
+import "./shippingDetail.js";
